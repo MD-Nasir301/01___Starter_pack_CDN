@@ -1,4 +1,4 @@
-# 🌐 01\_\_Starter_Pack
+# 🌐 01_Starter-Pack-CDN
 
 A clean and simple starter template for modern web development projects.  
 Includes pre-organized folders, essential CDN links, and a few base styles to help you start faster.
