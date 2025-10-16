@@ -36,14 +36,34 @@ body {
   color: var(--text-black);
 }
 
-/* ========== THEME BACKGROUNDS ========== */
+/* ========== Theme Custom Classe ========== */
 .theme-bg-primary {
   background: var(--theme-bg-primary);
 }
 .theme-bg-secondary {
   background: var(--theme-bg-secondary);
 }
-
+.text-black {
+  color: var(--text-black);
+}
+.text-white {
+  color: var(--text-white);
+}
+.text-gray {
+  color: var(--text-gray);
+}
+.title {
+  color: var(--theme-text-primary);
+  font-size: 18px;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+.mb {
+  margin-bottom: 5px;
+}
+.fw {
+  font-weight: 900;
+}
 /* ========== TYPOGRAPHY ========== */
 /* Headings */
 h1,
